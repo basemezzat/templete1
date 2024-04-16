@@ -245,9 +245,13 @@ footer{
     }
 
     header h2{
-        top: 10%;
-    
-    }
+        top: 5%;
+left: 30%;    }
+header img{
+    top: 15%;
+left: 20%;    }
+
+
     .houses{
         flex-direction: column;
     }
@@ -275,9 +279,11 @@ footer{
     }
 
     header h2{
-        left: 40%;
         top: 5%;
-    }
+left: 30%;    }
+header img{
+    top: 15%;
+left: 20%;    }
     .house{
         width: 48%;
     }
